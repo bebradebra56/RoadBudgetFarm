@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375408497358",
+    "project_id": "roadbudgetfarm",
+    "storage_bucket": "roadbudgetfarm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375408497358:android:32fe049bed4a00315eb69f",
+        "android_client_info": {
+          "package_name": "com.roadi.budgesfram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA77-UmiRNheG56xoboHP5CK3DbhfBIsFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
